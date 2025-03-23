@@ -1,0 +1,114 @@
+{
+    "pizza":{
+        "peperoni": {
+            "nombre":"Peperoni",
+            "imagen": "/assets/images/pizzas/peperoni.png",
+            "tamaño":"Grande",
+            "ingredientes":["Queso", "Peperoni", "Salsa de Tomate"],
+            "precio":50000
+        },
+        "bbq": {
+            "nombre":"BBQ",
+            "imagen": "/assets/images/pizzas/BBQ.png",
+            "tamaño":"Mediano",
+            "ingredientes":["Queso", "Jamon", "Salsa BBQ"],
+            "precio":35000
+        },
+        "pollo": {
+            "nombre":"Pollo",
+            "imagen": "/assets/images/pizzas/pollo.png",
+            "tamaño":"Personal",
+            "ingredientes":["Queso", "Pollo", "Champiñon"],
+            "precio":12500
+        },
+        "vegetariana": {
+            "nombre":"Vegetariana",
+            "imagen": "/assets/images/pizzas/vegetariana.png",
+            "tamaño":"Grande",
+            "ingredientes":["Queso", "Vegetales", "Salsa de Tomate"],
+            "precio":47000
+        },
+        "ranchera": {
+            "nombre":"Ranchera",
+            "imagen": "/assets/images/pizzas/Ranchera.png",
+            "tamaño":"Mediano",
+            "ingredientes":["Parmesano", "Ricotta", "Gorgonzola"],
+            "precio":47000
+        }
+    },
+    "postres":{
+        "pastel_cereza":{
+            "nombre":"Pastel de Cereza",
+            "imagen": "/assets/images/postres/CerezaPastel.png",
+            "tamaño":"Individual",
+            "ingredientes":["Cereza", "Bizcocho", "Queso mascarpone", "Cacao"],
+            "precio": 2500
+        },
+        "pastel_chocolate":{
+            "nombre":"Pastel de Chocolate",
+            "imagen": "/assets/images//postres/pastel.png",
+            "tamaño":"Individual",
+            "ingredientes":["Queso crema", "Galleta", "Chocolate", "Azúcar"],
+            "precio": 5000
+        },
+        "flan_vainilla":{
+            "nombre":"Flan de Vainilla",
+            "imagen": "/assets/images/postres/Flan.png",
+            "tamaño":"Individual",
+            "ingredientes":["Leche", "Azúcar", "Vainilla"],
+            "precio": 3500
+        },
+        "cupcake":{
+            "nombre":"Cupcake",
+            "imagen": "/assets/images/postres/cupcake.png",
+            "tamaño":"Individual",
+            "ingredientes":["Chispas de Chocolate", "Leche", "Azúcar"],
+            "precio": 2000
+        },
+        "cheesecake_durazno":{
+            "nombre":"Cheesecake de Durazno",
+            "imagen": "/assets/images/postres/cheesecake.png",
+            "tamaño":"Individual",
+            "ingredientes":["Queso crema", "Galleta", "Durazno", "Azúcar"],
+            "precio": 6300
+        }
+    },
+    "bebidas": {
+        "coca_cola": {
+            "nombre": "Coca-Cola",
+            "imagen": "/assets/images/bebidas/CocaCola.png",
+            "tamaño": "500ml",
+            "ingredientes": ["Agua carbonatada", "Azúcar", "Cafeína", "Colorante caramelo"],
+            "precio": 2500
+        },
+        "fanta_naranja": {
+            "nombre": "Fanta de Naranja",
+            "imagen":"/assets/images/bebidas/Fanta.png",
+            "tamaño": "300ml",
+            "ingredientes": ["Jugo de naranja", "Agua carbonatada"],
+            "precio": 3000
+        },
+        "pepsi": {
+            "nombre": "Pepsi",
+            "imagen":"/assets/images/bebidas/Pepsi.png",
+            "tamaño": "400ml",
+            "ingredientes": ["Agua carbonatada", "Azúcar", "Cafeína", "Colorante caramelo"],
+            "precio": 2750
+        },
+        "agua_mineral": {
+            "nombre": "Agua Mineral",
+            "imagen":"/assets/images/bebidas/agua-mineral.png",
+            "tamaño": "500ml",
+            "ingredientes": ["Agua", "Minerales"],
+            "precio": 1990
+        },
+        "sprite": {
+            "nombre": "Sprite",
+            "imagen":"/assets/images/bebidas/Sprite.png",
+            "tamaño": "350ml",
+            "ingredientes": ["Agua", "Limón", "Azúcar", "Hierbabuena"],
+            "precio": 3500
+        }
+    }
+}    
+    
