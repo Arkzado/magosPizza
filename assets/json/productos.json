@@ -1,35 +1,35 @@
 {
     "pizza":{
         "peperoni": {
-            "nombre":"Peperoni",
+            "nombre":"Pizza de Peperoni",
             "imagen": "/assets/images/pizzas/peperoni.png",
             "tamaño":"Grande",
             "ingredientes":["Queso", "Peperoni", "Salsa de Tomate"],
             "precio":50000
         },
         "bbq": {
-            "nombre":"BBQ",
+            "nombre":"Pizza de BBQ",
             "imagen": "/assets/images/pizzas/BBQ.png",
             "tamaño":"Mediano",
             "ingredientes":["Queso", "Jamon", "Salsa BBQ"],
             "precio":35000
         },
         "pollo": {
-            "nombre":"Pollo",
+            "nombre":"Pizza de Pollo",
             "imagen": "/assets/images/pizzas/pollo.png",
             "tamaño":"Personal",
             "ingredientes":["Queso", "Pollo", "Champiñon"],
             "precio":12500
         },
         "vegetariana": {
-            "nombre":"Vegetariana",
+            "nombre":"Pizza Vegetariana",
             "imagen": "/assets/images/pizzas/vegetariana.png",
             "tamaño":"Grande",
             "ingredientes":["Queso", "Vegetales", "Salsa de Tomate"],
             "precio":47000
         },
         "ranchera": {
-            "nombre":"Ranchera",
+            "nombre":"Pizza Ranchera",
             "imagen": "/assets/images/pizzas/Ranchera.png",
             "tamaño":"Mediano",
             "ingredientes":["Parmesano", "Ricotta", "Gorgonzola"],
